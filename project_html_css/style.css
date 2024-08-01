@@ -32,8 +32,6 @@ body>:nth-child(1)>header>nav>ul{
     margin-top: 42px;
     margin-right: 40px;
 }
-body>:nth-child(1)>header>nav{
-}
 body>:nth-child(1)>header>nav>ul>li{
     color: #03045E;
     font-family: Poppins, sans-serif;
@@ -42,7 +40,6 @@ body>:nth-child(1)>header>nav>ul>li{
     font-weight: 500;
     line-height: normal;
     list-style-type: none;
-
 }
 body>:nth-child(1)>header>nav>ul>:nth-child(1){
     width: 48px;
@@ -62,6 +59,7 @@ body>:nth-child(1)>header>nav>ul>:nth-child(4){
 }
 body>:nth-child(1)>header>nav>ul>li>a{
     text-decoration: none;
+    color: #03045E;
 }
 body>:nth-child(1)>header>button{
     margin-top: 30px;
