@@ -171,7 +171,7 @@ body>:nth-child(2)>:nth-child(1)>div>form>input::placeholder{
     line-height: normal;
     opacity: 0.5;
     padding-top: 18px;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 body>:nth-child(2)>:nth-child(1)>div>form>button{
     display: inline-flex;
@@ -215,6 +215,7 @@ body>:nth-child(2)>:nth-child(3)>div>div>:nth-child(2){
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    opacity: 0.3;
 }
 /*-----------------------Section3----------------------*/
 body>:nth-child(3){
@@ -329,6 +330,7 @@ body>:nth-child(4)>:nth-child(2)>div>:nth-child(3){
     font-weight: 400;
     line-height: normal;
     padding-bottom: 50px;
+    opacity: 0.5;
 }
 body>:nth-child(4)>:nth-child(3){
     display: flex;
